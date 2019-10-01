@@ -1,0 +1,59 @@
+div {
+    height: 200px;
+    width: 400px;
+   
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -365px;
+    margin-left: -200px;
+	font-family: 'Press Start 2P', 'Wingdings';
+	line-height:125%
+	
+}
+
+p {
+	color:ffffff;
+	font-size: 13px;
+}
+
+h1 {
+	font-size: 17.5px;
+	color:DEEDF2;
+	text-shadow: 5px 5px #070e10;
+}
+
+h2 {
+	font-size: 15px;
+	color:DEEDF2;
+	text-shadow: 5px 5px #070e10;
+}
+
+body {
+   background-image: url("http://www.androidguys.com/wp-content/uploads/2016/04/8bit_wallpaper20.jpg");
+   background-color: #151D6E;
+   background-size: cover;                      
+   background-repeat: no-repeat;
+   background-position: center center; 
+}
+
+a:link {
+    color: FFFFFF;
+	text-decoration: none;
+	text-shadow: 3px 3px #2B45A2;
+}
+
+a:visited {
+    color: FFFFFF;
+	text-decoration: none;
+}
+
+a:hover {
+    color: 35B8D2;
+	text-decoration: none;
+}
+
+a:active {
+    color: D23569;
+}

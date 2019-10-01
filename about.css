@@ -1,0 +1,61 @@
+div {
+    height: 200px;
+    width: 400px;
+   
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -400px;
+    margin-left: -200px;
+	font-family: 'Press Start 2P', 'Wingdings';
+	line-height:125%
+	
+}
+
+p {
+	color:ffffff;
+	font-size: 13px;
+	text-shadow: 3px 3px #000000
+}
+
+h1 {
+	font-size: 17.5px;
+	color:DEEDF2;
+	text-shadow: 5px 5px #070e10;
+}
+
+h2 {
+	font-size: 15px;
+	color:DEEDF2;
+	text-shadow: 5px 5px #070e10;
+}
+
+body {
+   background-image: url("https://spencer2124.files.wordpress.com/2014/06/background.png");
+   background-color: #0B1A2D;
+   background-size: cover;                      
+   background-repeat: no-repeat;
+   background-position: center center; 
+   overflow-y: scroll;
+}
+
+a:link {
+    color: FFFFFF;
+	text-decoration: none;
+	text-shadow: 3px 3px #2B45A2;
+}
+
+a:visited {
+    color: FFFFFF;
+	text-decoration: none;
+}
+
+a:hover {
+    color: 35B8D2;
+	text-decoration: none;
+}
+
+a:active {
+    color: D23569;
+}
